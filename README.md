@@ -100,16 +100,6 @@ GUESS <texto>
 
 ---
 
-# Tecnologias Utilizadas
-
-- Java
-- TCP/IP
-- Threads
-- Programação Orientada a Objetos
-- Consola / Terminal
-
----
-
 # Observações Finais
 
 - O jogo encerra automaticamente após vitória ou derrota
