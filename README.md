@@ -51,7 +51,7 @@ O ficheiro `palavras` deve estar acessível na diretoria onde o servidor é exec
 ## Iniciar o Servidor
 
 ```bash
-java .\Servidor.java
+java ./Servidor.java
 ```
 
 ## Iniciar Clientes
@@ -59,7 +59,7 @@ java .\Servidor.java
 Abrir novos terminais e executar:
 
 ```bash
-java .\Cliente.java
+java ./Cliente.java
 ```
 
 Executar entre **2 e 4 clientes**.
